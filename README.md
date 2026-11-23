@@ -65,7 +65,7 @@ Puedes usarlo y distribuirlo libremente, siempre que se mantenga el carácter gr
 ## 📬 Contacto
 
 Desarrollado por Juan Pastor 
-- GitHub: [@JuanRenoj](https://github.com/JuanRenoj)]
+- GitHub: [@JuanRenoj](https://github.com/JuanRenoj]
 - Correo: [jrenoj62@gmail.com]
 
 ---

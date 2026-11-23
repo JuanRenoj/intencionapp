@@ -41,7 +41,7 @@ El registro de intenciones de misa suele hacerse a mano o en múltiples archivos
 ## 📥 Descarga e instalación
 
 1. Ve a la sección **[Releases](../../releases)** de este repositorio.
-2. Descarga el archivo ejecutable más reciente: `intencion-1.0.1.Setup.exe`
+2. Descarga el archivo ejecutable más reciente: `intencion-1.0.2.Setup.exe`
 3. Ejecuta el archivo y sigue las instrucciones en pantalla.
 4. No requiere instalación adicional ni permisos de administrador.
 
